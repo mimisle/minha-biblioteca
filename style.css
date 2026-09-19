@@ -27,5 +27,6 @@ p {
 }
 .livro img {
   width: 100x;
+  max-width:100px;
   height: auto;
 }
